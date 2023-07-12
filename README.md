@@ -3,15 +3,13 @@
 
 <br />
 
-- 🔭 I’m currently working on **a productivity app, which gonna be released soon✨**
+- 🔭 I’m currently working as a **frontend web developer** at **Earthmeta**
 
-- 🌱 I’m currently learning **node.js and express.js**
+- 🌱 I’m currently pursuing for a **master degree** in **Information System and Web Technologies**
 
-- 📫 How to reach me **cenha06@gmail.com**
+- 📄 Know about my experiences [Resume](www.drive.google.com/file/d/1042G2U4HkBu30BGLkG7mJiZ92CeV7j1W/view?usp=sharing) 
 
-- 📄 Know about my experiences [Resume](www.drive.google.com/file/d/1042G2U4HkBu30BGLkG7mJiZ92CeV7j1W/view?usp=sharing)
-
-- ⚡ Fun fact **I think footbal is the best sport ever!**
+- ⚡ Fun fact **I'm a culer 🔴🔵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
