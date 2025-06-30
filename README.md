@@ -3,11 +3,11 @@
 
 <br />
 
-- 🔭 I’m currently working as a **frontend web developer** at **Earthmeta**
+- 🔭 I’m currently working as a **Web Developer** at **Taki Tech**
 
-- 🌱 I’m currently pursuing for a **master degree** in **Information System and Web Technologies**
+- 🌱 I hold a **Master Degree** in **Information System and Web Technologies**, and  **Bachelor Degree** in **Software Engineering**
 
-- 📄 Know about my experiences [Resume](www.drive.google.com/file/d/1042G2U4HkBu30BGLkG7mJiZ92CeV7j1W/view?usp=sharing) 
+- 📄 Know about my experiences [website](https://hacenbarb.dev/)
 
 - ⚡ Fun fact **I'm a culer 🔴🔵**
 
