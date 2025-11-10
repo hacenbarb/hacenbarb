@@ -7,7 +7,7 @@
 
 - 🌱 I hold a **Master Degree** in **Information System and Web Technologies**, and  **Bachelor Degree** in **Software Engineering**
 
-- 📄 Know more about me [hacenbarb.dev](https://hacenbarb.dev/)
+- 📄 Know more about me [hacenbarb-dev](https://hacenbarb-dev.online/)
 
 - ⚡ Fun fact **I'm a culer 🔴🔵**
 
