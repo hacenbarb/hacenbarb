@@ -3,7 +3,7 @@
 
 <br />
 
-- 🔭 I’m currently working as a **Web Developer** at **Taki Tech**
+- 🔭 I’m currently working as a **Web Developer** at **Emploi Partner**
 
 - 🌱 I hold a **Master Degree** in **Information System and Web Technologies**, and  **Bachelor Degree** in **Software Engineering**
 
